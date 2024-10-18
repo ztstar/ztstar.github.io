@@ -1,5 +1,5 @@
 ---
-title: [Solution] NAQ2024.D
+title: Solution NAQ2024.D
 description: 2024 ICPC North America Qualifier (NAQ) D. Colorful Trees
 slug: 2024-NAQ-D
 date: 2024-10-18 00:00:00+0000
@@ -15,7 +15,7 @@ this is just a test blog
 
 [Problem link on Kattis]([Colorful Trees – Kattis, Kattis](https://open.kattis.com/problems/colorfultrees))
 
-> On a tree of $n$ $(n\leq10^5)$ nodes, each node has a color $c_i$ $(c_i\leq n)$. For each edge on the tree, print the number of paths that passes it and has same color on its two ends. 
+Statement: On a tree of $n$ $(n\leq10^5)$ nodes, each node has a color $c_i$ $(c_i\leq n)$. For each edge on the tree, print the number of paths that passes it and has same color on its two ends. 
 
 Solution: For each node $x$, create a map that counts the appearances for each color in its subtree. We use the small to large strategy to merge maps. Time complexity: $\mathcal O(n\log^2n)$.
 

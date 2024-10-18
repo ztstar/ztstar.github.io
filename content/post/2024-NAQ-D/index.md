@@ -14,7 +14,7 @@ math: true
 
 this is just a test blog
 
-https://open.kattis.com/problems/colorfultrees
+[Problem Statement](https://open.kattis.com/problems/colorfultrees)
 
 > Statement: On a tree of $n$ $(n\leq10^5)$ nodes, each node has a color $c_i$ $(c_i\leq n)$. For each edge on the tree, print the number of paths that passes it and has same color on its two ends. 
 

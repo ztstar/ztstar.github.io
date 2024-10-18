@@ -1,6 +1,6 @@
 ---
-title: [Solution]
-description: Welcome to Hugo Theme Stack
+title: \[Solution\] NAQ2024.D
+description: 2024 ICPC North America Qualifier (NAQ) D. Colorful Trees
 slug: 2024-NAQ-D
 date: 2024-10-18 00:00:00+0000
 image: cover.jpg

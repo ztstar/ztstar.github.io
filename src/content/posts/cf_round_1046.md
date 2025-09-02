@@ -23,7 +23,9 @@ No idea for it when I first see it.
 
 Keyword: Graph, xor, path, counting. 
 
-You need to discover the property of the graph to satisfy the condition. After that, it's almost template for SCC(Strongly Connected Component) (for undirected graph). 
+You need to discover the property of the graph to satisfy the condition. After that, it's almost template for finding Edge Biconnectted Component (边双连通分量). 
+
+Some knowledge that are similar to each other: Strongly Connected Component (SCC, 强连通分量), Edge Biconnected Component(边双连通分量), Vertex Biconnected Component(点双连通分量). 
 
 [Problem D2](https://codeforces.com/problemset/problem/2135/D2)
 

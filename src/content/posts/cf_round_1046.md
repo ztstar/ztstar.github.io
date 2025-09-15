@@ -9,11 +9,13 @@ draft: false
 lang: 'en'
 ---
 
-[Problem A](https://codeforces.com/problemset/problem/2135/A)
+### [Problem A](https://codeforces.com/problemset/problem/2135/A)
 
 This is an easy 1D DP problem. ~ Leetcode Difficulty. 
 
-[Problem B](https://codeforces.com/problemset/problem/2135/B)
+[My submission](https://codeforces.com/contest/2135/submission/336458136)
+
+### [Problem B](https://codeforces.com/problemset/problem/2135/B)
 
 An interactive problem. 
 
@@ -23,7 +25,9 @@ No idea for it when I first see it.
 
 Basically: want to get rid of the absolute value sign -- move to bottom left corner, can determine $X+Y$ (where $(X, Y)$ is the initial coordinate). To my surprise, move to the bottom right corner, can determine $X-Y$. then $X$ and $Y$ all known. 
 
-[Problem C](https://codeforces.com/problemset/problem/2135/B)
+[My Submission](https://codeforces.com/contest/2135/submission/338659880)
+
+### [Problem C](https://codeforces.com/problemset/problem/2135/B)
 
 Keyword: Graph, xor, path, counting. 
 
@@ -33,12 +37,12 @@ Some knowledge that are similar to each other: Strongly Connected Component (SCC
 
 The official solution uses Tarjan, and it looks simpler.
 
-My submission: [link](https://codeforces.com/contest/2029/submission/290767326)
+[My submission](https://codeforces.com/contest/2029/submission/290767326)
 
-[Problem D2](https://codeforces.com/problemset/problem/2135/D2)
+### [Problem D2](https://codeforces.com/problemset/problem/2135/D2)
 
 another interacitve problem. 
 
-[Problem E2](https://codeforces.com/problemset/problem/2135/E2)
+### [Problem E2](https://codeforces.com/problemset/problem/2135/E2)
 
 not sure if I'm going to do this for my current training?

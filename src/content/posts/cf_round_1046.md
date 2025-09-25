@@ -3,7 +3,7 @@ title: CF Round 1046 (div1)
 published: 2025-09-01
 description: ''
 image: ''
-tags: []
+tags: [dp, interactive, bcc]
 category: 'ICPC'
 draft: false 
 lang: 'en'
